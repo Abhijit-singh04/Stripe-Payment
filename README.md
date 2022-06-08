@@ -7,7 +7,7 @@ Stripe's payments platform lets you accept credit cards, debit cards, and popula
 # Screenshot
 ![payment 2](https://user-images.githubusercontent.com/103450664/172528432-3fc31d9d-7192-4503-8296-63a026806b5b.PNG)
 
-#Instructions
+# Instructions
 1. git clone https://github.com/Abhijit-singh04/Stripe-Payment.git <br>
 2. cd ./Stripe-Payment<br>
 3. Login to stripe / Create Account<br>
