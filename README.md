@@ -8,10 +8,10 @@ Stripe's payments platform lets you accept credit cards, debit cards, and popula
 ![payment 2](https://user-images.githubusercontent.com/103450664/172528432-3fc31d9d-7192-4503-8296-63a026806b5b.PNG)
 
 #Instructions
-git clone https://github.com/Abhijit-singh04/Stripe-Payment.git
-cd ./Stripe-Payment
-Login to stripe / Create Account
-Copy your Secret key and Publishable key from Stripe
-Paste in .env file
-Go to terminal and run "npm i"
-After that run "npm run dev"
+1. git clone https://github.com/Abhijit-singh04/Stripe-Payment.git <br>
+2. cd ./Stripe-Payment<br>
+3. Login to stripe / Create Account<br>
+4. Copy your Secret key and Publishable key from Stripe<br>
+5. Paste in .env file<br>
+6. Go to terminal and run "npm i"<br>
+7. After that run "npm run dev"<br>
